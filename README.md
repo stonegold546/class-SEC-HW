@@ -6,3 +6,4 @@ This semester's project will involve creating a credit card service that allows 
 - [Phase 2: User Authentication Service](auth_service.md)
 - [Phase 3: Applying PK-Crypto](pk_crypto_intro.md)
 - [Phase 4: Authorized Architecture](authorized_architecture.md)
+- Phase 5: [SSO using Github OAuth](authorized_architecture.md#c-single-sign-on-using-github-oauth) and [Availability & Performance](availability_performance.md)
