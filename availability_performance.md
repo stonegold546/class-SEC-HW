@@ -1,6 +1,6 @@
 # Authorization and Architecture
 
-For this short assignment, you will simple use a memcache server to cache requests
+For this short assignment, you will simply use a memcache server to cache requests
 
 ## A. Memcache
 Please refer to work you did for "Authorization and Architecture" assignment, part B
