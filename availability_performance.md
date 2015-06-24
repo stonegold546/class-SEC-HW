@@ -3,7 +3,7 @@
 For this short assignment, you will simply use a memcache server to cache requests
 
 ## A. Memcache
-Please refer to work you did for "Authorization and Architecture" assignment, part B
+Please refer to work you did for "Authorization and Architecture" assignment, [part B](authorized_architecture.md#b-api-keys-and-authorization)
 
 ### 1. Register Credit Card application on Memcachier
 - Create cache on Memcachier for your credit card service
